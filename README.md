@@ -80,6 +80,7 @@
 <img width="873" alt="Decision Tree 1" src="https://user-images.githubusercontent.com/63955072/122773012-e87ed480-d2e2-11eb-8721-a3f823b7f4b1.PNG">
 
 > At a glance, you can see the distribution of trees according to premiums. <br/>
+
 > The orange, the younger you are and the fewer children you have. <br/>
 > The more orange, the lower the bmi, and most non-smokers. <br/>
 > The more purple you are, the older you are and the more you have children. <br/>
